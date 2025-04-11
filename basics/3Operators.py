@@ -1,6 +1,6 @@
 # Note: In the program below, the print() function is used to display the output in the console.
 # In the print() function, the end='\n'  is used to print each output on a new line
-# In the print() function, the (exampl: "a + b =") is used to explain the syntax of the output
+# In the print() function, the qoutes and strings inside (exampl: "a + b =", a + b) is used to explain the syntax of the output
 # Don't get confused just run the program it will help you to understand the output
 
 # 🧮 ARITHMETIC OPERATORS
